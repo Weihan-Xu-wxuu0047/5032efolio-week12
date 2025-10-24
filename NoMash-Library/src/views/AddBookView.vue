@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Add Book</h1>
+    <h1>Add Book!</h1>
     <form @submit.prevent="addBook">
       <div>
         <label for="isbn">ISBN:</label>
