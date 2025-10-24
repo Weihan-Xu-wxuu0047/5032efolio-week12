@@ -10,7 +10,7 @@ export default defineConfig({
     vue(),
     vueDevTools(),
   ],
-  base: '/NoMash-Library/',
+  base: '/5032efolio-week12/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
